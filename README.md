@@ -3,7 +3,6 @@
 🎓 Front-End Development Student <br/>
 🎨 I love creating beautiful and functional websites <br/>
 🛠️ I work with HTML, CSS, JavaScript, React <br/>
-📷 You can contact me via [Instagram](https://www.instagram.com/denys__shevchenko__/) <br/>
 💼 Or check out my profile on [LinkedIn](https://www.linkedin.com/in/shevchenkodenys3/) <br/>
 
 
