@@ -1,6 +1,6 @@
 ## Hello, I'm Denys ✨
 
-🎓 Front-End Development Student <br/>
+🎓 Front-End Development <br/>
 🎨 I love creating beautiful and functional websites <br/>
 🛠️ I work with HTML, CSS, JavaScript, React <br/>
 💼 Or check out my profile on [LinkedIn](https://www.linkedin.com/in/shevchenkodenys3/) <br/>
