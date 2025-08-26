@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=css,figma,firebase,mongodb,git,github,gitlab,html,js,nodejs,react,tailwind,ts,vite,vscode,devto,express,gulp,nextjs,npm,ps,postman,redux,sass,stackoverflow,sublime,sketchup,svg,vercel," />
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
