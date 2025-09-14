@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,vite,gulp,firebase,postman,mongodb,git,github,gitlab,npm,nodejs,express,vscode,devto,ps,figma,svg,stackoverflow,vercel," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,vite,firebase,mongodb,git,github,gitlab,npm,nodejs,express,vscode,devto,ps,figma,svg,stackoverflow,vercel," />
   </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
